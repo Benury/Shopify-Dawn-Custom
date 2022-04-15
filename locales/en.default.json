@@ -227,7 +227,7 @@
       }
     },
     "cart": {
-      "title": "Your cart",
+      "title": "Your cart test",
       "caption": "Cart items",
       "remove_title": "Remove {{ title }}",
       "subtotal": "Subtotal",
