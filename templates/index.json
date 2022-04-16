@@ -5,6 +5,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "YUOTO - BLUEBERRY",
             "heading_size": "h0"
@@ -12,6 +13,7 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "YUOTO DISPOSABLE is made of high-quality metal materials, lightweight and portable, durable and durable.  It is powered by a 900mAh built-in battery, and despite its small size, it can support up to 1500 pumps.  As for the pods, the capacity is 5 ml, which can meet your daily use",
             "text_style": "body"
@@ -19,6 +21,7 @@
         },
         "button": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Shop Now",
             "button_link_1": "shopify:\/\/collections\/all",
@@ -35,7 +38,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/20220416143656.jpg",
+        "image": "shopify:\/\/shop_images\/BANNER-2-_1_2048x_34a73c63-4693-4101-a296-c116bc186a2b.png",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "adapt_height_first_image": false,
