@@ -65,6 +65,12 @@
         "default": "#e06d03",
         "label": "colors_accent_red"
       },
+      {
+        "type": "color",
+        "id": "colors_accent_green",
+        "default": "#5bb856",
+        "label": "colors_accent_green"
+      },
 
       {
         "type": "header",
