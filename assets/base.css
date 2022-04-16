@@ -2883,13 +2883,13 @@ details-disclosure > details {
 #shopify-section-announcement-top-bar{
 }
 .top_bg{
-  color: #777777;
+  color: #fff !important;
   /* max-width: var(--page-width); */
 
   border-bottom: 1px solid #e4e4e4;
   /* padding: 0 10rem; */
   font-size: 1.4rem;
-
+ 
 }
 .top_email{
   /* padding-top: 6px; */
@@ -2901,6 +2901,12 @@ details-disclosure > details {
   max-width: var(--page-width);
   margin: 0 auto;
   padding: 0 8rem;
+  flex-wrap: wrap;
+  @media screen and (max-width: 749px) {
+    .top_email {
+      height: 50px;
+    }
+  }
 }
 .top_email a{
   color: #565656;
