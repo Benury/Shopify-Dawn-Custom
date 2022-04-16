@@ -21,7 +21,7 @@
     "spacing_grid_vertical": 8,
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
-    "buttons_radius": 0,
+    "buttons_radius": 40,
     "buttons_shadow_opacity": 0,
     "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_vertical_offset": 4,
@@ -95,6 +95,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
+    "favicon": "shopify:\/\/shop_images\/AILE3_1_0b176c51-7fd2-445d-9f77-95acd2632ec5.png",
     "currency_code_enabled": true,
     "sections": {
       "announcement-bar": {
