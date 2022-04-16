@@ -59,3 +59,20 @@
 .collection-list-view-all {
   margin-top: 2rem;
 }
+
+
+.collection-list__item .card__heading > a {
+  color: rgb(var(--color-base-accent-orange));
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.collection-list__item .card .icon-wrap {
+  vertical-align: middle;
+}
+
+.title-line-custom  h2{
+  color: #252a30;
+  font-family: "Belgrano", "Open Sans","HelveticaNeue","Helvetica Neue",sans-serif;
+  font-weight: 700;
+}
