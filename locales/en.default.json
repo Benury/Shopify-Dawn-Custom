@@ -36,7 +36,7 @@
       "previous": "Previous page"
     },
     "search": {
-      "search": "Search"
+      "search": "Find a product"
     },
     "cart": {
       "view": "View my cart ({{ count }})",

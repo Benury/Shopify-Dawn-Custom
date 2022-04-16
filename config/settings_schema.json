@@ -44,6 +44,28 @@
         "type": "color_background",
         "label": "t:settings_schema.colors.settings.gradient_accent_2.label"
       },
+
+     
+
+      {
+        "type": "color",
+        "id": "colors_accent_orange",
+        "default": "#f39200",
+        "label": "colors_accent_orange"
+      },
+      {
+        "type": "color",
+        "id": "colors_accent_yellow",
+        "default": "#f8e71c",
+        "label": "colors_accent_yellow"
+      },
+      {
+        "type": "color",
+        "id": "colors_accent_red",
+        "default": "#e06d03",
+        "label": "colors_accent_red"
+      },
+
       {
         "type": "header",
         "content": "t:settings_schema.colors.settings.header__2.content"
