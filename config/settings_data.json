@@ -107,6 +107,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "New product was updated, Go Now!",
               "color_scheme": "accent-1",
@@ -218,7 +219,7 @@
             "type": "popup",
             "settings": {
               "text": "How It Works",
-              "page": ""
+              "page": "home"
             }
           }
         },
