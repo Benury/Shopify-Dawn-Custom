@@ -37,6 +37,10 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/BANNER-2-_1_2048x_34a73c63-4693-4101-a296-c116bc186a2b.png",
         "image_2": "shopify:\/\/shop_images\/banner_2048x_4f54c36f-61aa-4846-8de2-48f862f4b5ce.png",
+        "image_3": "shopify:\/\/shop_images\/paner2_2_2048x_dccf61ee-0ddb-47a2-9475-4412d44e920a.png",
+        "image_4": "shopify:\/\/shop_images\/paner2_2048x_ea1d0820-f3ad-4de2-afae-760f7c00bdab.png",
+        "image_5": "shopify:\/\/shop_images\/WhatsApp_Image_2021-11-01_at_8.21.29_AM_1_2048x_8e90efe6-e996-4cf0-b252-f13859f6aacb.jpg",
+        "image_6": "shopify:\/\/shop_images\/WhatsApp_Image_2021-11-01_at_8.21.29_AM_2048x_a662b071-9cdd-48d4-afc7-ff2523a2bce2.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "adapt_height_first_image": false,
