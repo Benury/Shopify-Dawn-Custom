@@ -193,42 +193,6 @@
       },
       "announcement-top-bar": {
         "type": "announcement-top-bar",
-        "blocks": {
-          "81b6b871-c6ec-4a48-9355-d6cca40dc928": {
-            "type": "popup",
-            "settings": {
-              "text": "Delivery Timings",
-              "page": "shipping-policy"
-            }
-          },
-          "4ec07237-99fd-42ce-b981-2b6a30ca3bd1": {
-            "type": "popup",
-            "settings": {
-              "text": "Best Prices Everyday",
-              "page": "everyday-prices-are-changed-based-on-market-and-product-condition-we-make-sure-to-offer-you-the-best-products-versus-price-in-order-to-have-the-best-possible-deal-everyday"
-            }
-          },
-          "457e43dd-ccfa-4e6f-a90c-35bccebd2fe6": {
-            "type": "popup",
-            "settings": {
-              "text": "Same Day Delivery All Over UAE",
-              "page": "same-day-delivery-all-over-uae-for-theme-test-should-be-deleted"
-            }
-          },
-          "3d7d45a1-942d-43c2-8c00-b5f9b4f0cb40": {
-            "type": "popup",
-            "settings": {
-              "text": "How It Works",
-              "page": "home"
-            }
-          }
-        },
-        "block_order": [
-          "81b6b871-c6ec-4a48-9355-d6cca40dc928",
-          "4ec07237-99fd-42ce-b981-2b6a30ca3bd1",
-          "457e43dd-ccfa-4e6f-a90c-35bccebd2fe6",
-          "3d7d45a1-942d-43c2-8c00-b5f9b4f0cb40"
-        ],
         "settings": {
         }
       }
