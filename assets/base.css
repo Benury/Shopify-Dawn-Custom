@@ -3104,7 +3104,7 @@ padding: 0 0rem;
     height: 25rem;
   }
   .top_bg {
-    display: none;
+    display: none !important;
   }
 }
 .swiper-wrapper {
