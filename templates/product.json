@@ -94,6 +94,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "15f75249-d1cd-4446-ba26-82c636e8cdc6": {
+          "type": "popup",
+          "settings": {
+            "text": "Pop-up link text",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -109,16 +116,17 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share"
+        "share",
+        "15f75249-d1cd-4446-ba26-82c636e8cdc6"
       ],
       "settings": {
         "enable_sticky_info": true,
         "gallery_layout": "stacked",
-        "media_size": "large",
+        "media_size": "medium",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 36,
+        "padding_top": 52,
         "padding_bottom": 12
       }
     },
