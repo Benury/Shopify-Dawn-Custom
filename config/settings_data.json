@@ -11,7 +11,7 @@
     "colors_accent_green": "#5bb856",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#f39200",
-    "colors_background_1": "#f7f7f7",
+    "colors_background_1": "#ffffff",
     "gradient_background_1": "",
     "colors_background_2": "#f3f3f3",
     "gradient_background_2": "",
@@ -107,10 +107,11 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
-              "text": "New product was updated, Go Now!",
-              "color_scheme": "accent-1",
-              "link": "shopify:\/\/products\/hqd-candy"
+              "text": "Welcome to our store",
+              "color_scheme": "background-1",
+              "link": ""
             }
           }
         },
@@ -165,12 +166,12 @@
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "accent-2",
+          "color_scheme": "background-1",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
           "enable_country_selector": false,
-          "enable_language_selector": true,
+          "enable_language_selector": false,
           "payment_enable": true,
           "margin_top": 48,
           "padding_top": 36,
@@ -193,40 +194,17 @@
       "announcement-top-bar": {
         "type": "announcement-top-bar",
         "blocks": {
-          "81b6b871-c6ec-4a48-9355-d6cca40dc928": {
-            "type": "popup",
+          "announcement-top-bar-0": {
+            "type": "announcement",
             "settings": {
-              "text": "Delivery Timings",
-              "page": "shipping-policy"
-            }
-          },
-          "4ec07237-99fd-42ce-b981-2b6a30ca3bd1": {
-            "type": "popup",
-            "settings": {
-              "text": "Best Prices Everyday",
-              "page": "everyday-prices-are-changed-based-on-market-and-product-condition-we-make-sure-to-offer-you-the-best-products-versus-price-in-order-to-have-the-best-possible-deal-everyday"
-            }
-          },
-          "457e43dd-ccfa-4e6f-a90c-35bccebd2fe6": {
-            "type": "popup",
-            "settings": {
-              "text": "Same Day Delivery All Over UAE",
-              "page": "same-day-delivery-all-over-uae-for-theme-test-should-be-deleted"
-            }
-          },
-          "3d7d45a1-942d-43c2-8c00-b5f9b4f0cb40": {
-            "type": "popup",
-            "settings": {
-              "text": "How It Works",
-              "page": ""
+              "text": "Welcome to our store",
+              "color_scheme": "accent-1",
+              "link": ""
             }
           }
         },
         "block_order": [
-          "81b6b871-c6ec-4a48-9355-d6cca40dc928",
-          "4ec07237-99fd-42ce-b981-2b6a30ca3bd1",
-          "457e43dd-ccfa-4e6f-a90c-35bccebd2fe6",
-          "3d7d45a1-942d-43c2-8c00-b5f9b4f0cb40"
+          "announcement-top-bar-0"
         ],
         "settings": {
         }

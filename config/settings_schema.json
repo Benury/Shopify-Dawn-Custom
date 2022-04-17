@@ -44,9 +44,6 @@
         "type": "color_background",
         "label": "t:settings_schema.colors.settings.gradient_accent_2.label"
       },
-
-     
-
       {
         "type": "color",
         "id": "colors_accent_orange",
@@ -71,7 +68,6 @@
         "default": "#5bb856",
         "label": "colors_accent_green"
       },
-
       {
         "type": "header",
         "content": "t:settings_schema.colors.settings.header__2.content"
