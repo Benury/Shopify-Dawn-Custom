@@ -3293,3 +3293,10 @@ padding: 0 0rem;
   font-weight: 700;
   font-size: 2rem;
 }
+
+.announcement-bar{
+  background-color: rgb(var(--color-base-accent-orange));
+}
+.announcement-bar__link{
+  padding: 0.5rem 2rem;
+}
