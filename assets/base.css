@@ -3239,7 +3239,13 @@ padding: 0 0rem;
   .facets__form{
     border: 1px solid #eee;
     min-height: 60rem;
+    width: 32rem;
+    background: #fff !important;
     /* padding: 0.4rem 0.4rem; */
+  }
+  .facets__form.no-data{
+    border:0;
+    width: 0;
   }
   .active-facets{
     display: none !important;
@@ -3275,7 +3281,7 @@ padding: 0 0rem;
     color: rgb(var(--color-base-accent-1));
   }
   #main-collection-filters {
-    width: 32rem !important;
+    /* width: 32rem !important; */
   }
 }
 
