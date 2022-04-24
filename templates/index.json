@@ -96,7 +96,7 @@
         "cd556d3b-4a78-401e-ae0e-4b52f676cd82": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paner2_2048x_ea1d0820-f3ad-4de2-afae-760f7c00bdab.png",
+            "image": "shopify:\/\/shop_images\/H052-24.jpg",
             "heading": "PREMINUM QUALITY",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -130,12 +130,6 @@
     "1650079371f3d2b1c7": {
       "type": "collection-list",
       "blocks": {
-        "1650079371d940c168-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "again"
-          }
-        },
         "1650079371d940c168-1": {
           "type": "featured_collection",
           "settings": {
@@ -177,17 +171,24 @@
           "settings": {
             "collection": "smooth"
           }
+        },
+        "1650079371d940c168-0": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
-        "1650079371d940c168-0",
         "1650079371d940c168-1",
         "1650079371d940c168-2",
         "849532ba-a9c2-4b96-a981-9da050328974",
         "0419a6e6-09fa-47a5-82f5-78741a8025ab",
         "f81793c3-90e6-4ad5-a0da-c0649bb0176c",
         "09db723e-78e6-46f7-b358-38c2bfdafc95",
-        "a8ed933e-724e-4e85-8ca1-30a9e1394f7c"
+        "a8ed933e-724e-4e85-8ca1-30a9e1394f7c",
+        "1650079371d940c168-0"
       ],
       "settings": {
         "title": "",
