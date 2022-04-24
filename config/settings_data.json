@@ -102,29 +102,10 @@
     "favicon": "shopify:\/\/shop_images\/AILE3_1_0b176c51-7fd2-445d-9f77-95acd2632ec5.png",
     "currency_code_enabled": true,
     "sections": {
-      "announcement-bar": {
-        "type": "announcement-bar",
-        "blocks": {
-          "announcement-bar-0": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "New product was updated, Go Now!",
-              "color_scheme": "accent-1",
-              "link": "shopify:\/\/products\/hqd-candy"
-            }
-          }
-        },
-        "block_order": [
-          "announcement-bar-0"
-        ],
-        "settings": {
-        }
-      },
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-2",
           "logo": "shopify:\/\/shop_images\/AILE3_1_0b176c51-7fd2-445d-9f77-95acd2632ec5.png",
           "logo_width": 100,
           "logo_position": "middle-left",
@@ -425,5 +406,4 @@
       }
     }
   }
-}
 }
