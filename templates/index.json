@@ -135,13 +135,13 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "HQD CUVIE PLUS",
+        "title": "HQD",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "all",
-        "products_to_show": 6,
+        "products_to_show": 12,
         "columns_desktop": 6,
         "full_width": false,
         "show_view_all": true,
