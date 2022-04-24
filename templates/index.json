@@ -99,20 +99,13 @@
           "settings": {
             "collection": "vgod"
           }
-        },
-        "a8ed933e-724e-4e85-8ca1-30a9e1394f7c": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "smooth"
-          }
         }
       },
       "block_order": [
         "1650079371d940c168-2",
         "849532ba-a9c2-4b96-a981-9da050328974",
         "0419a6e6-09fa-47a5-82f5-78741a8025ab",
-        "09db723e-78e6-46f7-b358-38c2bfdafc95",
-        "a8ed933e-724e-4e85-8ca1-30a9e1394f7c"
+        "09db723e-78e6-46f7-b358-38c2bfdafc95"
       ],
       "settings": {
         "title": "",
