@@ -96,18 +96,18 @@
         "cd556d3b-4a78-401e-ae0e-4b52f676cd82": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/H052-24.jpg",
-            "heading": "PREMINUM QUALITY",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "image": "shopify:\/\/shop_images\/83629e3e107b9b3191a560ef0655f61b.jpg",
+            "heading": "HQD MELO",
+            "heading_size": "h2",
+            "subheading": "",
             "button_label": "SHOW NOW",
             "link": "shopify:\/\/collections\/pod-salt",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
         }
