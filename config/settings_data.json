@@ -11,7 +11,7 @@
     "colors_accent_green": "#5bb856",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#f39200",
-    "colors_background_1": "#f7f7f7",
+    "colors_background_1": "#98ba6c",
     "gradient_background_1": "",
     "colors_background_2": "#f3f3f3",
     "gradient_background_2": "",
@@ -109,11 +109,11 @@
           "logo": "shopify:\/\/shop_images\/AILE3_1_0b176c51-7fd2-445d-9f77-95acd2632ec5.png",
           "logo_width": 100,
           "logo_position": "middle-left",
-          "menu": "caidan",
+          "menu": "",
           "menu_type_desktop": "dropdown",
           "show_line_separator": false,
           "enable_sticky_header": true,
-          "margin_bottom": 0
+          "margin_bottom": 36
         }
       },
       "footer": {
