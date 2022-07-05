@@ -114,17 +114,17 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
-          "announcement-bar-0": {
+          "92f62f91-dca2-4c1a-aa8a-ec6ce6072106": {
             "type": "announcement",
             "settings": {
               "text": "Welcome to our store",
-              "color_scheme": "background-1",
+              "color_scheme": "accent-1",
               "link": ""
             }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "92f62f91-dca2-4c1a-aa8a-ec6ce6072106"
         ],
         "settings": {
         }
@@ -133,9 +133,11 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 90,
+          "logo": "shopify:\/\/shop_images\/stacked-bracelets.jpg",
+          "logo_width": 60,
           "logo_position": "middle-left",
           "menu": "main-menu",
+          "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
           "margin_bottom": 0
